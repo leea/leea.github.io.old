@@ -7,7 +7,7 @@ theme:
   site_name: allenlee.net
 
   # Google analytics UID
-  google_analytics_uid: 
+  google_analytics_uid: UA-56089889-1
 
   # Disqus shortname, for comments
   disqus_shortname: allenleenet
