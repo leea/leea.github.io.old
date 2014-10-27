@@ -1,0 +1,10 @@
+---
+layout: toppage
+title: Blog
+heading: Allen's Weblog
+---
+<ol id="posts">
+  {% for post in site.posts %}
+  <li> {% include post_summary.html %} </li>
+  {% endfor %}
+</ol>
