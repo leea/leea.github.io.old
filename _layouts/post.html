@@ -10,7 +10,11 @@ layout: default
   {% else %}
   "{{ site.url }}/img/{{ page.image.feature }}"
   {% endif %}
+  {% if post.image.alt %}
+  alt="{{ post.image.alt }}"
+  {% else %}
   alt="{{ page.title }} feature image">
+  {% endif %}
 
   {% if page.image.credit %}
   <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>

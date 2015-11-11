@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
-pinned: true
+layout:
+title:
+excerpt:
+modified:
+tags: 
+comments:
+pinned: 
 image:
-  feature: sample-image-2.jpg
-  creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
-  credit: thomas shellberg
+  feature: nsclc_microscope.jpg
+  creditlink: https://www.flickr.com/photos/euthman/5715460701/in/photolist-9H4ekT-6xuVfB-7FMEJu-f6yMe4-f6yyLc-f6yzu6-f6NPKQ-f6NPTo-f6NPaf-8LRNqy-f6NPis-efq3et-8nxEv5-6ZhEFb-7FHLfD-8nxEsE-nYbdQS-6meFnN-5t3snb-bo3aLW-7EXifL-723ZoD-4GfnQM-7Jy9bZ-9igkBp-cPDyi7-6ZdEEx-74MaQ8-7umibD-jsyV6F-6YCpcH-6zSgSx-6Zshqr-3h63CV-71p7Y7-6ZshmB-6YGqCE-6ZwhSG-CKfR7-wyRzzD-8nuw7t-6CzA4K-4Yyqdi-74MbRt-2pSr8H-4CWYX-h6iuho-h871DY-5tqLkm-4uc3R4/
 ---
 
-## HTML Elements
+## Html Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
