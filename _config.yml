@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Allen 李
+title: Allen's blog
 email: al@allenlee.net
-description: A simple and awesome blog theme powered by jekyll.
+description: A cancer patient blog
 url: #allenlee.net
 
 #
@@ -33,9 +33,9 @@ owner:
   name: Allen 李
   avatar: avatar.jpg
   job: "Software Engineer"
-  bio: "I'm a programmer. I'm also a stage 4 cancer patient."
+  bio: "I'm a programmer and a stage 4 cancer patient."
   email: al@allenlee.net
-  rss: /feed.xml
+  rss: /atom.xml
   disqus-shortname: allenleenet
   twitter: allen_lee_
   facebook: #username
