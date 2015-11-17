@@ -48,7 +48,7 @@ OK.
 
 What should I do now? 
 
-Thanks to Diane Lee for editing a draft of this.
+*Thanks to Diane Lee for editing a draft of this.*
 
 [1]This is a stat that I’ve heard repeated by many doctors. The numbers are more like 60/40 favoring females, which makes almost no difference in practice.  Doctors - stop repeating it, or worse using it to influence clinical decisions.
 
