@@ -36,7 +36,7 @@ The numbers, like the pulmonologist, did not have concrete answers. Never smoker
 
 In the days following the MRI, I had a battery of tests looking for some alternate primary source other than the lung. Then I had an emergency biopsy, which completed the diagnosis. I had stage 4 adenocarcinoma of lung. My first brain surgery occurred less than a day after getting the results.
 
-It’s been over 7 months after getting the diagnosis and I have been hesitant to tell this story. In truth, the first thing I wanted to do after getting the diagnosis is to crawl in a hole and hide. The story that we’ve all been told about lung cancer is that it’s a preventable disease. What did I do to deserve this? 
+It’s been over 7 months after getting the diagnosis and I have been hesitant to tell this story. In truth, the first thing I wanted to do after getting the diagnosis is to crawl in a hole and hide. The story that we’ve all been told about lung cancer is that it’s a preventable disease. How did this happen? What did I do to cause this? 
 
 Perhaps some wrongdoing from my past has come back to dole out karmic revenge? Did those few cigars and puffs of cigarettes when I was a teenager make any difference? Did I let work contribute too much stress to my life? Was it the pollution of life in the city? 
 
@@ -47,6 +47,8 @@ I’m a never smoker. I am active and eat a healthy diet. At the age of 29, I wa
 OK. 
 
 What should I do now? 
+
+Thanks to Diane Lee for editing a draft of this.
 
 [1]This is a stat that I’ve heard repeated by many doctors. The numbers are more like 60/40 favoring females, which makes almost no difference in practice.  Doctors - stop repeating it, or worse using it to influence clinical decisions.
 
