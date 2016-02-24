@@ -1,4 +1,14 @@
-# Science and the treatment of serious illnesses
+---
+layout: post
+title: Science and the treatment of serious illnesses
+excerpt: My comments submitted to HHS call for public comment
+modified: 2016-02-23
+tags: [ cancer, common rule, science]
+comments: true
+image:
+  feature: Paperwork_stack.png
+---
+
 
 In April of 2015, at the age of 29, I was diagnosed with advanced EGFR+ lung cancer. Although this condition is rare in a person like me, younger, athletic, never smoker, I am tragically not alone. Hundreds of young adults like me will be diagnosed with incurable advanced lung cancer in the US. Many multiples of that number will be diagnosed with diseases like mine that are not very treatable and fatal. 
 
