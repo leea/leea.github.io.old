@@ -14,7 +14,7 @@ url: http://allenlee.net
 ####################################
 #
 markdown:    kramdown
-highlighter:  pygments
+highlighter:  Rouge
 excerpt_separator: <!--more-->
 
 kramdown:
