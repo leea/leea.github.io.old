@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Science and the treatment of serious illnesses
-excerpt: My submission to the U.S. Department of Health and Human Services (HHS) call for public comment on changes to the Common Rule, which governs research on human subjects in the US.
+excerpt: My cancer will not wait for IRB review. My treatment should not wait either.
 modified: 2016-02-23
 tags: [ cancer, common rule, science]
 comments: true
 ---
 
+*Note: This is a edited version of my submission to the U.S. Department of Health and Human Services (HHS) call for public comment on changes to the Common Rule, which governs research on human subjects in the US*
 
 In April of 2015, at the age of 29, I was diagnosed with advanced EGFR+ lung cancer. Although this condition is rare in a person like me, younger, athletic, never smoker, I am tragically not alone. Hundreds of young adults like me will be diagnosed with incurable advanced lung cancer in the US. Many multiples of that number will be diagnosed with diseases like mine that are not very treatable and fatal. 
 
@@ -44,7 +45,7 @@ Although nearly 600,000 Americans will die from cancer this year, it receives a 
 
 The findings of research should also be given back to the participants. The wording of the common rule should not discourage data sharing.
 
-In 2015, I had the opportunity to participate in the Profile Research project at Dana Farber Cancer Institute where I contributed my tumor for  next generation sequencing of 275 cancer related genes.  Five months later, the sequencing data was ready. In the meantime I had switched oncologists, and hospitals, across town to Massachusetts General Hospital. 
+In 2015, I had the opportunity to participate in the Profile research project at Dana Farber Cancer Institute where I contributed my tumor for  next generation sequencing of 275 cancer related genes.  Five months later, the sequencing data was ready. In the meantime I had switched oncologists, and hospitals, across town to Massachusetts General Hospital. 
 
 There was one problem - the data was not allowed to be given to me! In order to pass IRB review, the study could not share the results of the testing with the patient, for fear that simply having the data could harm the participant. Of course, they were assuring that I could in no way benefit from the research either. 
 
@@ -53,3 +54,5 @@ Realizing the absurdity of the situation, my oncologist at Dana Farber, within t
 ## This is a winnable war
 
 Although I have a fatal disease, I remain as I was: a science and technology optimist. Everything I learn about cancer reinforces my belief that this is a winnable war. The question is how long it will take, and how many lives will be lost. Today, we need aggressive, diverse, optimistic clinical research to translate our lab findings into the clinic. The shackles have to be taken off our investigators. Patients as participants have to be entrusted to understand the risks and the benefit. We have to share our research findings with the world freely online.  And we need to empower patients to act as partners by allowing them to act as the custodians of the health data they rightfully own.
+
+*Thanks to Amy Li who proofread this post*
