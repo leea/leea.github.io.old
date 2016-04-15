@@ -5,13 +5,13 @@ layout: default
 {% if page.image.feature %}
 <div class="post-image-feature">
   <img class="feature-image" src=
-  {% if post.image.feature contains 'http' %}
+  {% if page.image.feature contains "http" %}
   "{{ page.image.feature }}"
   {% else %}
   "{{ site.url }}/img/{{ page.image.feature }}"
   {% endif %}
-  {% if post.image.alt %}
-  alt="{{ post.image.alt }}"
+  {% if page.image.alt %}
+  alt="{{ page.image.alt }}"
   {% else %}
   alt="{{ page.title }} feature image">
   {% endif %}
