@@ -33,8 +33,7 @@ research and science are treatment for my deadly disease.
 
 Thus I have a few major concerns about the Common Rule:
 
-## Speed up the IRB review process so that patients can access lifesaving
-    clinical trials
+## Speed up the IRB review process so that patients can access lifesaving clinical trials
 
 A primary tenant of the Common Rule is an Institutional Review Board (IRB)
 weighing that the risk and benefit to a participant of a research study are
