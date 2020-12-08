@@ -9,7 +9,7 @@ pinned:
 image:
 ---
 <div style="text-align:center" markdown="1">
-![My cell line](https://googledrive.com/host/0BzbmRoQQ-AswQUk1YXB6TjhiTjA)
+![My cell line](/assets/IMG_20160330_140507863.jpg)
 </div>
 
 On 3/31, I went on a lab tour at MGH. While I'm interested in seeing the labs, what really brought me here was seeing the [patient derived](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4388482/) [models](https://www.youtube.com/watch?v=iYGssyvXwl4) lab. Here, my cancer cells are being grown and studied to find effective treatments for me and for patients in the future.
