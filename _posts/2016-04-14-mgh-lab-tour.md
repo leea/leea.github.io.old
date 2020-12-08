@@ -18,6 +18,5 @@ The patient derived models project at MGH creates living cell lines from pieces 
 
 Special thanks to every who supported this groundbreaking cancer research by giving [my MGH fundraiser](https://fundraise.massgeneral.org/allen-lee)! It's because of all of you that this research is possible!
 
-![Lets kill these bastards](https://googledrive.com/host/0BzbmRoQQ-AswZi1MM1djQm03VHM)
 
 
